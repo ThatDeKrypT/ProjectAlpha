@@ -1,1 +1,6 @@
-Project Alpha is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+- Project Alpha -
+
+A mod that improves Terraria by adding on to the vanilla experience.
+
+- Improves and gives more uses to oftenly ignored biomes
+- Fills in gaps of balancing
