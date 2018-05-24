@@ -1,0 +1,3 @@
+author = dekrypt, melon, calming, zekrom
+version = 0.1
+displayName = Project Alpha
