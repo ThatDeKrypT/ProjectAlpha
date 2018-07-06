@@ -15,6 +15,7 @@ namespace ProjectAlpha.Items.Desert.DesertRose
 			item.height = 8;
 			item.value = 1400;
 			item.rare = 2;
+            item.maxStack = 99;
             item.UseSound = SoundID.Item1;
 		}
 
