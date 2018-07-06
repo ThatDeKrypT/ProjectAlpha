@@ -15,7 +15,7 @@ namespace ProjectAlpha.Items
 			item.height = 8;
 			item.value = 1400;
 			item.rare = 2;
-			item.UseSound = SoundID.Item1;
+            item.UseSound = SoundID.Item1;
 		}
 
 	}
