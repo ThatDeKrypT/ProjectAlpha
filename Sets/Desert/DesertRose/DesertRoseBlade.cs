@@ -6,29 +6,28 @@ using Terraria;
 using Terraria.ModLoader;
 using Terraria.ID;
 
-namespace ProjectAlpha.Items.Desert.DesertRose
+namespace ProjectAlpha.Sets.Desert.DesertRose
 {
-    public class DesertRoseAxe : ModItem
+    public class DesertRoseBlade : ModItem
     {
         public override void SetStaticDefaults()
         {
-            DisplayName.SetDefault("Desert Rose Axe");
+            DisplayName.SetDefault("Desert Rose Sword");
         }
         public override void SetDefaults()
         {
-            item.damage = 9;
+            item.damage = 17;
             item.melee = true;
             item.width = 23;
             item.height = 25;
-            item.useTime = 20;
-            item.useAnimation = 20;
+            item.useTime = 40;
+            item.useAnimation = 40;
             item.useStyle = 1;
-            item.knockBack = 3;
-            item.axe = 40;
+            item.knockBack = 4;
             item.value = 7000;
             item.rare = 2;
             item.UseSound = SoundID.Item1;
-            item.autoReuse = true;
+            item.autoReuse = false;
         }
 
         public override void AddRecipes()

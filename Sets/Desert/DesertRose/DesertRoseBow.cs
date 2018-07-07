@@ -6,7 +6,7 @@ using Terraria;
 using Terraria.ModLoader;
 using Terraria.ID;
 
-namespace ProjectAlpha.Items.Desert.DesertRose
+namespace ProjectAlpha.Sets.Desert.DesertRose
 {
     class DesertRoseBow :ModItem
     {

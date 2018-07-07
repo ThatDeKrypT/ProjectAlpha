@@ -1,7 +1,7 @@
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace ProjectAlpha.Items.Desert.DesertRose
+namespace ProjectAlpha.Sets.Desert.DesertRose
 {
 	public class DesertRose : ModItem
 	{
